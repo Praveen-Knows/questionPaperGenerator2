@@ -1,0 +1,83 @@
+body {
+  background-color: #e94b3cff;
+}
+.heading {
+  display: flex;
+  text-align: center;
+  height: 20vh;
+  width: 100%;
+  background-color: #f2efe4;
+  border: 1px solid black;
+}
+.blacket {
+  background-color: black;
+  width: 50%;
+  text-align: right;
+  color: white;
+}
+.whitet {
+  background-color: white;
+  text-align: left;
+  width: 50%;
+  color: black;
+}
+.sub-container {
+  display: flex;
+  height: 77vh;
+  border: 1px solid black;
+  flex-wrap: wrap;
+}
+.instructions {
+  background-color: black;
+  color: white;
+  width: 50%;
+  height: 77vh;
+}
+.choice-container {
+  background-color: white;
+  font-size: 1.2rem;
+  width: 50%;
+  height: 77vh;
+  margin: 0 auto;
+}
+.form {
+  /* margin-top: 10vh; */
+  margin-left: 15vw;
+}
+button {
+  width: 150px;
+  height: 50px;
+  background-color: black;
+  border-radius: 5%;
+  font-weight: bold;
+  color: white;
+  font-size: 1.3rem;
+  margin-top: 100px;
+}
+button:hover {
+  border: 4px solid #e94b3cff;
+}
+#image {
+  height: 100vh;
+  width: 100vw;
+}
+img {
+  margin-top: 15vh;
+  margin-left: 30vw;
+}
+h2 {
+  padding: 4px;
+  margin: 0px;
+  text-align: center;
+}
+h3 {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 10px;
+}
+li {
+  font-size: 1.2rem;
+}
+select {
+  font-size: 1.2rem;
+}

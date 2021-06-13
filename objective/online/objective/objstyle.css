@@ -1,0 +1,95 @@
+* {
+  margin: 0px;
+  /* border: 1px solid black; */
+}
+body {
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+.sidebar {
+  text-align: center;
+  height: 100vh;
+  width: 20vw;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: whitesmoke;
+}
+li {
+  width: 18vw;
+  height: 8vw;
+}
+p {
+  height: 3vh;
+  overflow: hidden;
+  font-size: 2.3vh;
+}
+.main-container {
+  background-color: white;
+  width: 60vw;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.question-container {
+  height: 80vh;
+  font-size: 1.3rem;
+  padding: 15px;
+  overflow-y: scroll;
+}
+.btn-container {
+  margin: 0 auto;
+  height: 10vh;
+  width: 60vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+.time-camera-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 20vw;
+  background-color: whitesmoke;
+}
+.time-block {
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+}
+.timer {
+  margin: 0 auto;
+  font-size: 3rem;
+}
+.camera-block {
+  height: 30vh;
+  width: 20vw;
+}
+#btn {
+  height: 5vh;
+  width: 8vw;
+  background-color: lightblue;
+  border-radius: 5px;
+  border-color: transparent;
+}
+#btn:hover {
+  background-color: whitesmoke;
+  border-color: lightblue;
+}
+video {
+  height: 100%;
+  width: 100%;
+}
+.sub-block {
+  margin: 12px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+i {
+  font-size: 80px;
+  color: lightskyblue;
+  margin: 5px;
+  position: relative;
+}
+.fas {
+  background-color: lightgreen;
+}

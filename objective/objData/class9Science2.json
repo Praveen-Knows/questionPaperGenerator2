@@ -1,0 +1,109 @@
+[
+  {
+    "chapter": "IS MATTER AROUND US PURE"
+  },
+  {
+    "question": "What is the name of the metal which exists in liquid state at room temperature?",
+    "A": "Sodium",
+    "B": "Potassium",
+    "C": "Mercury",
+    "D": "Bromine",
+    "ans": "C"
+  },
+  {
+    "question": "When the liquid is spun rapidly, the denser particles are forced to the bottom and the lighter particles stay at the top. This principle is used in:",
+    "A": "Centrifugation",
+    "B": "Fractional distillation",
+    "C": "Evaporation",
+    "D": "Tunneling",
+    "ans": "A"
+  },
+  {
+    "question": "What is the name of the metal which exists in liquid state at room temperature?",
+    "A": "Mercury",
+    "B": "Bromine",
+    "C": "Sodium",
+    "D": "Potassium",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following elements is not a metalloid?",
+    "A": "Boron",
+    "B": "Silicon",
+    "C": "Germanium",
+    "D": "Tungsten",
+    "ans": "D"
+  },
+  {
+    "question": "If we put camphor in an open container, its amount keeps on decreasing due to the phenomenon of",
+    "A": "Evaporation",
+    "B": "Precipitation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "ans": "D"
+  },
+  {
+    "question": "Heterogeneous mixture in which the solute particles do not dissolve and remain suspended throughout the solvent and the solute particles can be seen with the naked eye is known as:",
+    "A": "Colloidal solution",
+    "B": "Super saturated solution",
+    "C": "Sublimation",
+    "D": "Suspensions",
+    "ans": "D"
+  },
+  {
+    "question": "In tincture of iodine, find the solute and solvent?",
+    "A": "alcohol is the solute and iodine is the solvent",
+    "B": "iodine is the solute and alcohol is the solvent",
+    "C": "any component can be considered as solute or solvent",
+    "D": "tincture of iodine is not a solution",
+    "ans": "B"
+  },
+  {
+    "question": "The continuous zig-zag movement of colloidal particles in a dispersion medium is called",
+    "A": "Dispersion",
+    "B": "Tyndall Effect",
+    "C": "Brownian movement",
+    "D": "Oscillation",
+    "ans": "C"
+  },
+  {
+    "question": "A pure substance which is made up of only one kind of atom and cannot be broken into two or more simpler substances by physical or chemical means is referred to as",
+    "A": "a compound",
+    "B": "an element",
+    "C": "a molecule",
+    "D": "a mixture",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following property does not describe a compound?",
+    "A": "It is composed of two or more elements",
+    "B": "It is a pure substance.",
+    "C": "It cannot be separated into constituents by physical means",
+    "D": "It is mixed in any proportion by mass",
+    "ans": "D"
+  },
+  {
+    "question": "When two liquids do not mix, they form two separate layers and are known as",
+    "A": "Miscible liquids",
+    "B": "Immiscible liquids",
+    "C": "Saturated liquids",
+    "D": "Super saturated liquids",
+    "ans": "B"
+  },
+  {
+    "question": "How one can separate ammonium chloride from a mixture containing ammonium chloride and sodium chloride?",
+    "A": "Precipitation",
+    "B": "Sublimation",
+    "C": "Chromatography",
+    "D": "Centrifugation",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following non-metal is a good conductor of electricity?",
+    "A": "Aluminium",
+    "B": "Silicon",
+    "C": "Graphite",
+    "D": "Gold",
+    "ans": "C"
+  }
+]

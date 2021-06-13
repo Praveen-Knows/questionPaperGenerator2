@@ -1,0 +1,125 @@
+[
+  {
+    "chapter": "STRUCTURE OF ATOM"
+  },
+  {
+    "question": "Who discovered the electron?",
+    "A": "Rutherford",
+    "B": "Chadwick",
+    "C": "Thomson",
+    "D": "Goldstein",
+    "ans": "C"
+  },
+  {
+    "question": "Which isotope is used in the nuclear power plants to generate electricity?",
+    "A": "Uranium 235",
+    "B": "Iodine 131",
+    "C": "Cobalt 60",
+    "D": "Uranium 238",
+    "ans": "A"
+  },
+  {
+    "question": "Why was the Thomson’s Model of an atom failed?\ni. It could not explain the screening of negative charges from that of positive\nii. It did not tell about the presence of electrons\niii. It did not give an idea about the discrete energy levels\niv. It explained the atom as a whole to be electrically neutral\nChoose the correct option from the following:",
+    "A": "Only (iii)",
+    "B": "Both (i) & (iii)",
+    "C": "Only (i)",
+    "D": "Both (ii) & (iv)",
+    "ans": "B"
+  },
+  {
+    "question": "What was the source of alpha particles in Rutherford scattering experiment?",
+    "A": "Hydrogen nucleus",
+    "B": "Argon nucleus",
+    "C": "Helium nucleus",
+    "D": "None of the above",
+    "ans": "C"
+  },
+  {
+    "question": "What property of an element determines its chemical behaviour?",
+    "A": "Size of an element",
+    "B": "Valency of an element",
+    "C": "Molar mass of the element",
+    "D": "None of the above",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following does not match the characteristics of an Isotope?",
+    "A": "Isotopes of some elements are radioactive",
+    "B": "Isotopes are the atoms of different elements",
+    "C": "Isotopes differ in number of neutrons",
+    "D": "Isotopes have similar chemical properties",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the two will be chemically more reactive, Sulphur(S) with atomic number 16 or Chlorine (Cl) with atomic number 17?",
+    "A": "Chlorine",
+    "B": "Sulphur",
+    "C": "Both are equally reactive",
+    "D": "Can’t say",
+    "ans": "A"
+  },
+  {
+    "question": "Which of the following elements does not exhibit the electrovalencey?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Carbon",
+    "D": "Chlorine",
+    "ans": "C"
+  },
+  {
+    "question": " Which of the following statements is incorrect about the structure of an atom?\ni. The whole mass of an atom is concentrated in the nucleus\nii. The atom is an indivisible particle\niii. The atom as a whole is neutral\niv. All the atoms are stable in their basic state\nChoose the right option among the following:",
+    "A": "(i) and (iii)",
+    "B": "only  (ii)",
+    "C": "(ii) and (iv)",
+    "D": "none of these",
+    "ans": "C"
+  },
+  {
+    "question": "Which scientist gave the concept of fixed energy levels around the nucleus?",
+    "A": "Ernest Rutherford",
+    "B": "Neils Bohar",
+    "C": "J.J.Thomsan",
+    "D": "None of these",
+    "ans": "B"
+  },
+  {
+    "question": "What prevents an atom from being collapsed?",
+    "A": "The nuclear forces",
+    "B": "Movement of electrons in discrete energy levels",
+    "C": "The electron-electron repulsions",
+    "D": "All of these",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following pairs are isobars?",
+    "A": "17Cl35 & 17Cl37",
+    "B": "18Ar40 & 20Ca40",
+    "C": "6C12 & 6C14",
+    "D": "None of these",
+    "ans": "B"
+  },
+  {
+    "question": "Which of the following is an incorrect statement in reference with observation in Rutherford’s α-particle scattering experiment?",
+    "A": "Some of the α-particles rebound after hitting the gold foil",
+    "B": "Some of the particles deflected from their path",
+    "C": "Some of the particles not pass through the gold foil",
+    "D": "Most of the particles pass straight through the gold foil",
+    "ans": "A"
+  },
+  {
+    "question": "Which radioactive element is used in the treatment of cancer?",
+    "A": "Iodine-131",
+    "B": "Uranium-234",
+    "C": "Plutonium-239",
+    "D": "Cobalt-60",
+    "ans": "D"
+  },
+  {
+    "question": "Why do most of the elements try to participate in the chemical combinations?\ni. To gain more electrons\nii. To achieve Inert Gas configuration\niii. To complete their octet\niv. To complete their inner shells\nChoose the correct option among the following",
+    "A": "Both (i) & (iii)",
+    "B": "Both (ii) & (iii)",
+    "C": "Only (ii)",
+    "D": "Both (i) & (iv)",
+    "ans": "B"
+  }
+]
