@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Question Paper Generator</title>
+  </head>
+  <body>
+    <h2>SELECT THE TYPE OF QUESTION PAPER</h2>
+    <br /><br />
+    <div class="imageParent">
+      <div id="imx">
+        <img src="images/Objective.png" id="qspaper1" />
+        <br />
+        <button type="button" onclick="objective()">
+          <h4>OBJECTIVE</h4>
+        </button>
+      </div>
+      <div id="imx">
+        <img src="images/Subjective.png" id="qspaper2" />
+        <br />
+        <button type="button" onclick="subjective()">
+          <h4>SUBJECTIVE</h4>
+        </button>
+      </div>
+    </div>
+    <br /><br />
+    <div class="contentParent">
+      <div id="objective">
+        <h1>OBJECTIVE</h1>
+        <h2>Select Class</h2>
+        <h3 onclick="sectionName('9')">Class 9</h3>
+        <h3 onclick="sectionName('10')">Class 10</h3>
+        <h3 onclick="sectionName('11')">Class 11</h3>
+        <h3 onclick="sectionName('12')">Class 12</h3>
+      </div>
+      <div id="subjective">
+        <h1>SUBJECTIVE</h1>
+        <h2>Select Class</h2>
+        <h3 onclick="sectionName('9')">Class 9</h3>
+        <h3 onclick="sectionName('10')">Class 10</h3>
+        <h3 onclick="sectionName('11')">Class 11</h3>
+        <h3 onclick="sectionName('12')">Class 12</h3>
+      </div>
+    </div>
+    <div class="classParent">
+      <div id="class9">
+        <h2>Select Subject</h2>
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject9">Mathematics</h3></a
+        >
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject9">Science</h3></a
+        >
+      </div>
+      <div id="class10">
+        <h2>Select Subject</h2>
+        <a href="cmn_pages/chapters/chapters.html">
+          <h3 id="subject10">Mathematics</h3>
+        </a>
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject10">Science</h3></a
+        >
+      </div>
+      <div id="class11">
+        <h2>Select Subject</h2>
+        <a href="cmn_pages/chapters/chapters.html">
+          <h3 id="subject11">Mathematics</h3>
+        </a>
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject11">Physics</h3></a
+        >
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject11">Chemistry</h3></a
+        >
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject11">Biology</h3></a
+        >
+      </div>
+      <div id="class12">
+        <h2>Select Subject</h2>
+        <a href="cmn_pages/chapters/chapters.html">
+          <h3 id="subject12">Mathematics</h3>
+        </a>
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject12">Physics</h3></a
+        >
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject12">Chemistry</h3></a
+        >
+        <a href="cmn_pages/chapters/chapters.html"
+          ><h3 id="subject12">Biology</h3></a
+        >
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
