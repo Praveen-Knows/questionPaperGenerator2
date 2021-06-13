@@ -1,9 +1,6 @@
-chapterFile = localStorage.getItem("chapterFile");
-console.log(chapterFile);
+chapterFile = localStorage.getItem("subject");
 chapterFile = "../chapterData/" + chapterFile + ".json";
 clsName = localStorage.getItem("className");
-console.log(chapterFile);
-console.log(clsName);
 let nameofCls = document.querySelector("#class-name");
 nameofCls.innerText = "Class - " + clsName;
 
