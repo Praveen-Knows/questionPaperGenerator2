@@ -1,4 +1,5 @@
 chapterFile = localStorage.getItem("chapterFile");
+console.log(chapterFile);
 chapterFile = "../chapterData/" + chapterFile + ".json";
 clsName = localStorage.getItem("className");
 console.log(chapterFile);
