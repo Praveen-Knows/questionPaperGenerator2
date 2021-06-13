@@ -1,0 +1,86 @@
+body {
+  background-color: azure;
+  /* display: flex; */
+}
+h2,
+h1 {
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.input-text,
+.btn-add {
+  width: 45vw;
+  height: 70vh;
+}
+input {
+  width: 90%;
+  height: 1.5rem;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  background-color: whitesmoke;
+  margin: 3px;
+}
+input[type="text"]:focus {
+  size: 1.3rem;
+  border: 3px solid #555;
+  background-color: white;
+  box-shadow: 5px 10px #888888;
+  font-size: 1.5rem;
+}
+.sub-btn {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  padding: 10px;
+  background-color: lightgreen;
+  border-radius: 10%;
+}
+.sub-btn:hover {
+  box-shadow: 5px 10px #888888;
+}
+.plus {
+  font-size: 2rem;
+  color: darkgreen;
+}
+#icon-label {
+  font-size: 1.5rem;
+  color: darkgreen;
+  text-decoration: double;
+}
+.plus:hover {
+  font-size: 2rem;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+  background-color: lightgrey;
+}
+.close-sect,
+.close-inst {
+  color: red;
+  font-size: 1.5rem;
+  padding: 2px;
+}
+select {
+  width: 130px;
+  height: 30px;
+  text-align: center;
+}
+@media screen and (max-width: 1372px) {
+  .form {
+    display: block;
+  }
+  .input-text,
+  .btn-add {
+    width: 100%;
+    height: auto;
+  }
+}

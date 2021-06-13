@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="detailsPageStyle.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="main-container">
+      <h1 id="exam-type">OBJECTIVE</h1>
+      <h2>ENTER THE FOLLOWING DETAILS</h2>
+      <hr />
+      <br />
+      <div class="form">
+        <div class="input-text">
+          <label for="Organisation">Enter The Name of your Organisation:</label>
+          <input
+            type="text"
+            id="Organisation"
+            name="Organisation"
+            placeholder="Organisation"
+          />
+          <br /><br />
+          <label for="ExamName"> Enter Examination Name:</label>
+          <input
+            type="text"
+            id="ExamName"
+            name="ExamName"
+            placeholder="Exam Name"
+          /><br /><br />
+          <label for="Duration">Duration of Examination:</label>
+          <input
+            type="text"
+            id="Duration"
+            name="Duration"
+            placeholder="Duration In Minutes"
+          />
+          <br /><br />
+          <label for="Marks">Maximum Marks:</label>
+          <input type="text" id="Marks" name="Marks" placeholder="MM" />
+        </div>
+        <div class="btn-add">
+          <br />
+          <i class="fas fa-plus-square plus"></i>
+          <label for="fas" id="icon-label">ADD SECTIONS</label>
+          <div class="add-sections"></div>
+          <br /><br />
+          <i class="fas fa-plus-square plus" id="fas"></i>
+          <label for="fas" id="icon-label">ADD INSTRUCTIONS</label>
+          <div class="add-instructions"></div>
+        </div>
+        <br /><br />
+      </div>
+      <hr />
+      <button class="sub-btn" type="submit">SUBMIT</button>
+    </div>
+    <script src="detailsPageScript.js"></script>
+  </body>
+</html>

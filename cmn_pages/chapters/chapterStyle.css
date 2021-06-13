@@ -1,0 +1,19 @@
+body {
+  background-color: azure;
+}
+.main-container {
+  margin-left: 10vw;
+  font-size: 1.3rem;
+}
+label::after {
+  content: "\a";
+  white-space: pre;
+}
+#submit-btn {
+  height: 50px;
+  width: 100px;
+  border-radius: 10%;
+  border: 2px solid white;
+  color: white;
+  background-color: darkmagenta;
+}
