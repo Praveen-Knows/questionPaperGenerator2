@@ -8,8 +8,6 @@ You can contribute to this project by creating a question bank for different cla
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/80114072/122316768-0db5c080-cf3a-11eb-8546-29fcea65606a.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/80114072/122316811-17d7bf00-cf3a-11eb-8971-4b40f8894054.png)
-
 ![Screenshot (4)](https://user-images.githubusercontent.com/80114072/122316822-1d350980-cf3a-11eb-955c-640628855c2c.png)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/80114072/122316835-20c89080-cf3a-11eb-8969-f2742d2bcba2.png)
